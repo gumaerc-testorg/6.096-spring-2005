@@ -5,8 +5,13 @@ description: 'This file explains sequence motifs, motifs and profile matrices, t
   the M-step: estimating p, MEME enhancements to the basic EM approach, the ZOOPS
   model, the TCM model, Gibbs sampling, repeats, and a better background model, and
   motifs in periodic clusters.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-096-algorithms-for-computational-biology-spring-2005/225cab6df63ae2275c888edb9865a598_lecture4.pdf
+file: /media/courses/6-096-algorithms-for-computational-biology-spring-2005/225cab6df63ae2275c888edb9865a598_lecture4.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lecture4.pdf
 uid: 225cab6d-f63a-e227-5c88-8edb9865a598
