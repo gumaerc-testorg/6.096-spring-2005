@@ -11,24 +11,24 @@ A programming component was included in several of the problem sets. For those p
 
 Problem Set 1 ([PDF]({{< baseurl >}}/resources/ps1))
 
-*   intergenic ([TXT - 3.8 MB](/courses/electrical-engineering-and-computer-science/6-096-algorithms-for-computational-biology-spring-2005/assignments/intergenic.txt))
-*   conserved ([TXT - 3.8 MB](/courses/electrical-engineering-and-computer-science/6-096-algorithms-for-computational-biology-spring-2005/assignments/conserved.txt))
-*   code template ([PY](/courses/electrical-engineering-and-computer-science/6-096-algorithms-for-computational-biology-spring-2005/assignments/ps1template.py))
+*   intergenic ([TXT - 3.8 MB]({{< baseurl >}}/resources/intergenic))
+*   conserved ([TXT - 3.8 MB]({{< baseurl >}}/resources/conserved))
+*   code template ([PY]({{< baseurl >}}/resources/ps1template))
 
 Problem Set 2 ([PDF]({{< baseurl >}}/resources/ps2))
 
-*   code ([TXT](/courses/electrical-engineering-and-computer-science/6-096-algorithms-for-computational-biology-spring-2005/assignments/code.txt))
-*   ACE2 ([TXT](/courses/electrical-engineering-and-computer-science/6-096-algorithms-for-computational-biology-spring-2005/assignments/ACE2.txt))
-*   MBP1 ([TXT](/courses/electrical-engineering-and-computer-science/6-096-algorithms-for-computational-biology-spring-2005/assignments/mbp1.txt))
-*   DIG1 ([TXT](/courses/electrical-engineering-and-computer-science/6-096-algorithms-for-computational-biology-spring-2005/assignments/dig1.txt))
-*   relevant code ([TXT](/courses/electrical-engineering-and-computer-science/6-096-algorithms-for-computational-biology-spring-2005/assignments/relevant_code.txt))
+*   code ([TXT]({{< baseurl >}}/resources/code))
+*   ACE2 ([TXT]({{< baseurl >}}/resources/ace2))
+*   MBP1 ([TXT]({{< baseurl >}}/resources/mbp1))
+*   DIG1 ([TXT]({{< baseurl >}}/resources/dig1))
+*   relevant code ([TXT]({{< baseurl >}}/resources/relevant_code))
 
 Problem Set 3 ([PDF]({{< baseurl >}}/resources/ps3))
 
-*   viterbi.py ([PY](/courses/electrical-engineering-and-computer-science/6-096-algorithms-for-computational-biology-spring-2005/assignments/viterbi.py))
-*   cpgislands ([TXT](/courses/electrical-engineering-and-computer-science/6-096-algorithms-for-computational-biology-spring-2005/assignments/cpgisland.txt))
-*   cluster.py ([PY](/courses/electrical-engineering-and-computer-science/6-096-algorithms-for-computational-biology-spring-2005/assignments/cluster.py))
-*   tools.py ([PY](/courses/electrical-engineering-and-computer-science/6-096-algorithms-for-computational-biology-spring-2005/assignments/tools.py))
-*   clustalw ([TXT](/courses/electrical-engineering-and-computer-science/6-096-algorithms-for-computational-biology-spring-2005/assignments/clustalw.txt))
+*   viterbi.py ([PY]({{< baseurl >}}/resources/viterbi))
+*   cpgislands ([TXT]({{< baseurl >}}/resources/cpgisland))
+*   cluster.py ([PY]({{< baseurl >}}/resources/cluster))
+*   tools.py ([PY]({{< baseurl >}}/resources/tools))
+*   clustalw ([TXT]({{< baseurl >}}/resources/clustalw))
 
 Problem Set 4 ([PDF]({{< baseurl >}}/resources/ps4))
