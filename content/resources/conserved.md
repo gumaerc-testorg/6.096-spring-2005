@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a supporting file for the programming component of the problem
   set 1.
-file: /media/courses/6-096-algorithms-for-computational-biology-spring-2005/5939cb39bba679b4100c139aad5913bf_conserved.txt
+file: /courses/6-096-algorithms-for-computational-biology-spring-2005/5939cb39bba679b4100c139aad5913bf_conserved.txt
 file_type: text/plain
 learning_resource_types:
 - Assignments
@@ -14,3 +14,5 @@ resourcetype: Other
 title: conserved.txt
 uid: 5939cb39-bba6-79b4-100c-139aad5913bf
 ---
+This is a supporting file for the programming component of the problem set 1.
+

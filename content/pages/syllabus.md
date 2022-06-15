@@ -1,9 +1,15 @@
 ---
 content_type: page
+description: This syllabus provides information on location, prerequisites, grading,
+  algorithmic challenges, and references.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
 uid: bf58d94b-f76e-95f6-9ee9-1c206feb10e1
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Course Meeting Times
