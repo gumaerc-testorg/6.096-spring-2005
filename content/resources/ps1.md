@@ -6,6 +6,7 @@ file: /courses/6-096-algorithms-for-computational-biology-spring-2005/d6ea3c016d
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 This file includes problems on exhaustive search, content-based addressing, basic sampling, random projections.
-

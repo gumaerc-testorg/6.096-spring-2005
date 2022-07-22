@@ -10,6 +10,7 @@ file: /courses/6-096-algorithms-for-computational-biology-spring-2005/220e3959a6
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -23,4 +24,3 @@ video_metadata:
   youtube_id: null
 ---
 This file explains the world before DNA or protein, RNA world, RNA invented its successors, most common folds, more complex folds, dynamic programming algorithmfor secondary structure determination, first DP algorithm, the Nussinov algorithm, algorithm behavior, Nussinov RNA folding algorithm, completed matrix, traceback pseudocode, minimizing free energy, stochastic context free grammars, and algorithms for learning grammars.
-

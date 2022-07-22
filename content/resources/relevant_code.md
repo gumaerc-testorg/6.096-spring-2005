@@ -6,6 +6,7 @@ file: /courses/6-096-algorithms-for-computational-biology-spring-2005/392ff9d6c9
 file_type: text/plain
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: relevant_code.txt
 uid: 392ff9d6-c947-cc7d-8073-76198c652dae
 ---
 This is a supporting file for the programming component of the problem set 2.
-

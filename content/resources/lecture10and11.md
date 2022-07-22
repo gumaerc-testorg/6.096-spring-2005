@@ -7,6 +7,7 @@ file: /courses/6-096-algorithms-for-computational-biology-spring-2005/5921c43960
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -20,4 +21,3 @@ video_metadata:
   youtube_id: null
 ---
 This file explains genome correspondence, chromosome evolution, genome rearrangements, sorting by reversals, genome duplication, duplicate gene evolution, duplication and rearrangements.
-

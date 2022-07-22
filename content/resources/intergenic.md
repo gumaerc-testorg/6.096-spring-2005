@@ -6,6 +6,7 @@ file: /courses/6-096-algorithms-for-computational-biology-spring-2005/c62009a330
 file_type: text/plain
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: intergenic.txt
 uid: c62009a3-307c-0fdc-257e-640cbd2e2e59
 ---
 This is a supporting file for the programming component of the problem set 1.
-

@@ -6,6 +6,7 @@ file: /courses/6-096-algorithms-for-computational-biology-spring-2005/473404d380
 file_type: text/plain
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: ps1template.py
 uid: 473404d3-8060-56d0-ed08-c9b990d6bb3a
 ---
 This is a supporting file for the programming component of the problem set 1.
-

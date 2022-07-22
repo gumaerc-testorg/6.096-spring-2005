@@ -6,6 +6,7 @@ file: /courses/6-096-algorithms-for-computational-biology-spring-2005/a0ef059f16
 file_type: text/plain
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: clustalw.txt
 uid: a0ef059f-16e4-b17d-a115-b1319f852565
 ---
 This is a supporting file for the programming component of the problem set 3.
-

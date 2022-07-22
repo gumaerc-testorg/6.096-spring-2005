@@ -10,6 +10,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: chp_dna.jpg
@@ -20,4 +21,3 @@ video_metadata:
   youtube_id: null
 ---
 Gene regulation and motif discovery. Gene regulation is the process by which genes are turned on or off in response to enviromental stimuli. (Figure by MIT OCW.)
-

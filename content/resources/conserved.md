@@ -6,6 +6,7 @@ file: /courses/6-096-algorithms-for-computational-biology-spring-2005/5939cb39bb
 file_type: text/plain
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: conserved.txt
 uid: 5939cb39-bba6-79b4-100c-139aad5913bf
 ---
 This is a supporting file for the programming component of the problem set 1.
-

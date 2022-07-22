@@ -10,6 +10,7 @@ file: /courses/6-096-algorithms-for-computational-biology-spring-2005/c48f8fdb8e
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -23,4 +24,3 @@ video_metadata:
   youtube_id: null
 ---
 This file explains challenges in computational biology, markov chains and hidden markov models, HMM (hidden markov model), typical HMM problems, CpG islands, training markov chains for CpG islands, decoding, the viterbi algorithm, generating a sequence by the model, the forward algorithm, relation between forward and viterbi, pseudocounts, the baum-welch algorithm, HMM architectural/topology design and VEIL: viterbi exon-intron locator.
-

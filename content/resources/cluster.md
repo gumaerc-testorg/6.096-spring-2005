@@ -6,6 +6,7 @@ file: /courses/6-096-algorithms-for-computational-biology-spring-2005/be33fe22ce
 file_type: text/plain
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: cluster.py
 uid: be33fe22-ce13-fa6b-98d9-8914c8c09a5c
 ---
 This is a supporting file for the programming component of the problem set 3.
-

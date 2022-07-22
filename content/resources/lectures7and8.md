@@ -7,6 +7,7 @@ file: /courses/6-096-algorithms-for-computational-biology-spring-2005/4141d8b0b5
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -20,4 +21,3 @@ video_metadata:
   youtube_id: null
 ---
 This file explains computational model (simple Markov models, hidden Markov models), working with HMMs (dynamic programming (Viterbi), expectation maximization (Baum-Welch)), and gene finding in practice (GENSCAN, performance evaluation).
-
