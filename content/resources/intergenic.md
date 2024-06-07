@@ -3,6 +3,7 @@ content_type: resource
 description: This is a supporting file for the programming component of the problem
   set 1.
 file: /courses/6-096-algorithms-for-computational-biology-spring-2005/c62009a3307c0fdc257e640cbd2e2e59_intergenic.txt
+file_size: 3934754
 file_type: text/plain
 learning_resource_types:
 - Assignments

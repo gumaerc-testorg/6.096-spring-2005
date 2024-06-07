@@ -3,6 +3,7 @@ content_type: resource
 description: This file explains early evolution, the last 3.5 billion years, phylogenetic
   trees, UPGMA, neighbor joining, parsimony, and rapid evolution.
 file: /courses/6-096-algorithms-for-computational-biology-spring-2005/500e617100543090b65834cebfa2ae12_lecture9.pdf
+file_size: 416178
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
