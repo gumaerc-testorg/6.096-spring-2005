@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/6-096-algorithms-for-computational-biology-spring-2005/5c7e6891cc52f3b6b906d70fd2d6c609_lecture5_newest.pdf
+file_size: 1418283
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
