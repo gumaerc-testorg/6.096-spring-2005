@@ -6,6 +6,7 @@ description: 'This file explains sequence motifs, motifs and profile matrices, t
   model, the TCM model, Gibbs sampling, repeats, and a better background model, and
   motifs in periodic clusters.'
 file: /courses/6-096-algorithms-for-computational-biology-spring-2005/225cab6df63ae2275c888edb9865a598_lecture4.pdf
+file_size: 486943
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

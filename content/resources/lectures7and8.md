@@ -4,6 +4,7 @@ description: This file explains computational model (simple Markov models, hidde
   Markov models), working with HMMs (dynamic programming (Viterbi), expectation maximization
   (Baum-Welch)), and gene finding in practice (GENSCAN, performance evaluation).
 file: /courses/6-096-algorithms-for-computational-biology-spring-2005/4141d8b0b5f9b17007120a5a0abad2df_lectures7and8.pdf
+file_size: 663123
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -3,6 +3,7 @@ content_type: resource
 description: This is a supporting file for the programming component of the problem
   set 3.
 file: /courses/6-096-algorithms-for-computational-biology-spring-2005/c5f62c008b4bc6b37ffc1bed55cc048e_cpgisland.txt
+file_size: 10240
 file_type: text/plain
 learning_resource_types:
 - Assignments

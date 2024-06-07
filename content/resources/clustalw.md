@@ -3,6 +3,7 @@ content_type: resource
 description: This is a supporting file for the programming component of the problem
   set 3.
 file: /courses/6-096-algorithms-for-computational-biology-spring-2005/a0ef059f16e4b17da115b1319f852565_clustalw.txt
+file_size: 5287
 file_type: text/plain
 learning_resource_types:
 - Assignments

@@ -3,6 +3,7 @@ content_type: resource
 description: This file includes problems on HMMs, ultrametric, hierarchical clustering,
   and phylogenetic trees.
 file: /courses/6-096-algorithms-for-computational-biology-spring-2005/77d9c28d74ce568b1e549063b040e665_ps3.pdf
+file_size: 55331
 file_type: application/pdf
 learning_resource_types:
 - Assignments
