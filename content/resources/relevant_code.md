@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a supporting file for the programming component of the problem
   set 2.
-file: /courses/6-096-algorithms-for-computational-biology-spring-2005/392ff9d6c947cc7d807376198c652dae_relevant_code.txt
+file: /ol-ocw-studio-app/courses/6-096-algorithms-for-computational-biology-spring-2005/392ff9d6c947cc7d807376198c652dae_relevant_code.txt
 file_size: 275125
 file_type: text/plain
 learning_resource_types:
