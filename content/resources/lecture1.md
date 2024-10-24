@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This file includes the introduction to challenges in computational biology,
   and gene regulation: regulatory motif discovery.'
-file: /courses/6-096-algorithms-for-computational-biology-spring-2005/b46c798d787c6aa54f84c5377a566aba_lecture1.pdf
+file: /ol-ocw-studio-app/courses/6-096-algorithms-for-computational-biology-spring-2005/b46c798d787c6aa54f84c5377a566aba_lecture1.pdf
 file_size: 507767
 file_type: application/pdf
 learning_resource_types:

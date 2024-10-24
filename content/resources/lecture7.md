@@ -6,7 +6,7 @@ description: 'This file explains challenges in computational biology, markov cha
   a sequence by the model, the forward algorithm, relation between forward and viterbi,
   pseudocounts, the baum-welch algorithm, HMM architectural/topology design and VEIL:
   viterbi exon-intron locator.'
-file: /courses/6-096-algorithms-for-computational-biology-spring-2005/c48f8fdb8e1ff0cb6336e5b9b6cab23f_lecture7.pdf
+file: /ol-ocw-studio-app/courses/6-096-algorithms-for-computational-biology-spring-2005/c48f8fdb8e1ff0cb6336e5b9b6cab23f_lecture7.pdf
 file_size: 987670
 file_type: application/pdf
 learning_resource_types:
