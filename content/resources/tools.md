@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a supporting file for the programming component of the problem
   set 3.
-file: /ol-ocw-studio-app/courses/6-096-algorithms-for-computational-biology-spring-2005/bec40c1e656b3310ce654955c1ee8b95_tools.py
+file: /courses/6-096-algorithms-for-computational-biology-spring-2005/bec40c1e656b3310ce654955c1ee8b95_tools.py
 file_size: 275125
 file_type: text/plain
 learning_resource_types:

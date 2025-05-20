@@ -3,7 +3,7 @@ content_type: resource
 description: This file explains challenges in computational biology including bio
   review, computational formulation of the problem, combinatorial solutions, and probabilistic
   solutions.
-file: /ol-ocw-studio-app/courses/6-096-algorithms-for-computational-biology-spring-2005/8d52690ff17ed77873ce923c07973b58_lecture3.pdf
+file: /courses/6-096-algorithms-for-computational-biology-spring-2005/8d52690ff17ed77873ce923c07973b58_lecture3.pdf
 file_size: 1228972
 file_type: application/pdf
 learning_resource_types:
