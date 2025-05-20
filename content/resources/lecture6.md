@@ -6,7 +6,7 @@ description: This file explains the world before DNA or protein, RNA world, RNA 
   behavior, Nussinov RNA folding algorithm, completed matrix, traceback pseudocode,
   minimizing free energy, stochastic context free grammars, and algorithms for learning
   grammars.
-file: /ol-ocw-studio-app/courses/6-096-algorithms-for-computational-biology-spring-2005/220e3959a60d0fa71788508df2d6dbca_lecture6.pdf
+file: /courses/6-096-algorithms-for-computational-biology-spring-2005/220e3959a60d0fa71788508df2d6dbca_lecture6.pdf
 file_size: 1770074
 file_type: application/pdf
 learning_resource_types:

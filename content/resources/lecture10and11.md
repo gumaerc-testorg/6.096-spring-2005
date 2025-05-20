@@ -3,7 +3,7 @@ content_type: resource
 description: This file explains genome correspondence, chromosome evolution, genome
   rearrangements, sorting by reversals, genome duplication, duplicate gene evolution,
   duplication and rearrangements.
-file: /ol-ocw-studio-app/courses/6-096-algorithms-for-computational-biology-spring-2005/5921c43960f73b1909cf2cd0ecab65b9_lecture10and11.pdf
+file: /courses/6-096-algorithms-for-computational-biology-spring-2005/5921c43960f73b1909cf2cd0ecab65b9_lecture10and11.pdf
 file_size: 1449578
 file_type: application/pdf
 learning_resource_types:

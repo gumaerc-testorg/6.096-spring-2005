@@ -3,7 +3,7 @@ content_type: resource
 description: This file explains comparing genomes, comparing two DNA sequences, re-use
   computation, memoization, dynamic programming, matrix representation of alignments,
   matrixSequence alignment, and global alignment.
-file: /ol-ocw-studio-app/courses/6-096-algorithms-for-computational-biology-spring-2005/01f55f348ea1e95f7015bd1b40586012_lecture5.pdf
+file: /courses/6-096-algorithms-for-computational-biology-spring-2005/01f55f348ea1e95f7015bd1b40586012_lecture5.pdf
 file_size: 1590043
 file_type: application/pdf
 learning_resource_types:

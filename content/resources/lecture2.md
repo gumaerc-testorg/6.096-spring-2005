@@ -2,7 +2,7 @@
 content_type: resource
 description: This file explains setup, the BLAST algorithm, BLAST extensions, substitutions
   matrices, K-mers, and applications for BLAST and database search.
-file: /ol-ocw-studio-app/courses/6-096-algorithms-for-computational-biology-spring-2005/443a6b7a84e47e24c37be28763b936ff_lecture2.pdf
+file: /courses/6-096-algorithms-for-computational-biology-spring-2005/443a6b7a84e47e24c37be28763b936ff_lecture2.pdf
 file_size: 2173502
 file_type: application/pdf
 learning_resource_types:

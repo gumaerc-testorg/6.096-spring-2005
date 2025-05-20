@@ -2,7 +2,7 @@
 content_type: resource
 description: This file includes problems on exhaustive search, content-based addressing,
   basic sampling, random projections.
-file: /ol-ocw-studio-app/courses/6-096-algorithms-for-computational-biology-spring-2005/d6ea3c016d7ba27ea9477611dd63f4b7_ps1.pdf
+file: /courses/6-096-algorithms-for-computational-biology-spring-2005/d6ea3c016d7ba27ea9477611dd63f4b7_ps1.pdf
 file_size: 63968
 file_type: application/pdf
 learning_resource_types:
