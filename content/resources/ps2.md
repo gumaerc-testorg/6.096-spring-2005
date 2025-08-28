@@ -2,7 +2,7 @@
 content_type: resource
 description: This file includes problems on rapid database search, Gibbs sampling,
   and space complexity of the edit distance.
-file: /courses/6-096-algorithms-for-computational-biology-spring-2005/7bdda4b22374cd6afec21164c494c7f7_ps2.pdf
+file: /ol-ocw-studio-app/courses/6-096-algorithms-for-computational-biology-spring-2005/7bdda4b22374cd6afec21164c494c7f7_ps2.pdf
 file_size: 60051
 file_type: application/pdf
 learning_resource_types:

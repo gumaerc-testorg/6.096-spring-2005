@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a supporting file for the programming component of the problem
   set 3.
-file: /courses/6-096-algorithms-for-computational-biology-spring-2005/abb6c28f6dfd1eee991c9dfba388769b_viterbi.py
+file: /ol-ocw-studio-app/courses/6-096-algorithms-for-computational-biology-spring-2005/abb6c28f6dfd1eee991c9dfba388769b_viterbi.py
 file_size: 6582
 file_type: text/plain
 learning_resource_types:

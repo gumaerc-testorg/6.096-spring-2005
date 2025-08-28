@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a supporting file to be used for the programming component of
   the problem set 2.
-file: /courses/6-096-algorithms-for-computational-biology-spring-2005/af437aa79040a4c18922cd6ca9159491_ACE2.txt
+file: /ol-ocw-studio-app/courses/6-096-algorithms-for-computational-biology-spring-2005/af437aa79040a4c18922cd6ca9159491_ACE2.txt
 file_size: 32360
 file_type: text/plain
 learning_resource_types:
