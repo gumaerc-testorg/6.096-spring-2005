@@ -13,7 +13,7 @@ video_metadata:
   youtube_id: null
 ---
 
-A programming component was included in several of the problem sets. For those problem sets, data sets were given and the students were asked to implement their algorithms using python. To learn more about python, you can visit their [Web site](http://python.org/).
+A programming component was included in several of the problem sets. For those problem sets, data sets were given and the students were asked to implement their algorithms using python. To learn more about python, you can visit their {{% resource_link "eb9df922-8f86-4f3b-a363-eb46bfbbbe3b" "Web site" %}}.
 
 Problem Set 1 ({{% resource_link d6ea3c01-6d7b-a27e-a947-7611dd63f4b7 "PDF" %}})
 

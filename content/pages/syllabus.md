@@ -117,4 +117,4 @@ Waterman, Michael. _Introduction to Computational Biology: Maps, Sequences, and 
 
 Durbin, Richard, Graeme Mitchison, S. Eddy, A. Krogh, and G. Mitchison. _Biological Sequence Analysis: Probabilistic Models of Proteins and Nucleic Acids_. Cambridge, UK: Cambridge University Press, 1997. ISBN: 0521629713.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/introduction-bioinformatics-algorithms) Jones, Neil, and Pavel Pevzner. [_An Introduction to Bioinformatics Algorithms_](https://mitpress.mit.edu/books/introduction-bioinformatics-algorithms). Cambridge, MA: [MIT Press](https://mitpress.mit.edu/books/introduction-bioinformatics-algorithms) , 2004. ISBN: 0262101068.
+{{% resource_link "22e34f0f-f252-46ab-9de7-1bac0bc218d2" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Jones, Neil, and Pavel Pevzner. {{% resource_link "22e34f0f-f252-46ab-9de7-1bac0bc218d2" "_An Introduction to Bioinformatics Algorithms_" %}}. Cambridge, MA: {{% resource_link "22e34f0f-f252-46ab-9de7-1bac0bc218d2" "MIT Press" %}} , 2004. ISBN: 0262101068.
